@@ -1,0 +1,6 @@
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily 4 Easy CS\Daily 4 Easy CS\bin\Debug\Daily 4 Easy CS.exe.config
+C:\Users\tz6ysq\Documents\Visual Studio 2015\Projects\Daily 4 Easy CS\Daily 4 Easy CS\bin\Debug\Daily 4 Easy CS.exe
+C:\Users\tz6ysq\Documents\Visual Studio 2015\Projects\Daily 4 Easy CS\Daily 4 Easy CS\bin\Debug\Daily 4 Easy CS.pdb
+C:\Users\tz6ysq\Documents\Visual Studio 2015\Projects\Daily 4 Easy CS\Daily 4 Easy CS\obj\Debug\Daily 4 Easy CS.csprojResolveAssemblyReference.cache
+C:\Users\tz6ysq\Documents\Visual Studio 2015\Projects\Daily 4 Easy CS\Daily 4 Easy CS\obj\Debug\Daily 4 Easy CS.exe
+C:\Users\tz6ysq\Documents\Visual Studio 2015\Projects\Daily 4 Easy CS\Daily 4 Easy CS\obj\Debug\Daily 4 Easy CS.pdb
